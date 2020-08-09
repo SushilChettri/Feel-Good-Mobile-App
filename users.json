@@ -1,0 +1,22 @@
+{
+    "user1": {
+        "username": "user1",
+        "password": "password1",
+        "created": "2020-07-07 00:16:28.293901"
+    },
+    "user2": {
+        "username": "user2",
+        "password": "password2",
+        "created": "2020-07-07 00:28:07.315781"
+    },
+    "": {
+        "username": "",
+        "password": "",
+        "created": "2020-07-26 07-36-18"
+    },
+    "sushil": {
+        "username": "sushil",
+        "password": "chettri",
+        "created": "2020-07-26 07-37-16"
+    }
+}
